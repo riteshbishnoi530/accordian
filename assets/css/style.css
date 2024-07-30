@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.bg-yellow-2 {
+    background-color: #F6E300;
+}
+
+.bg-yellow {
+    background: #FFF03F !important;
+}
+
+.accordion-button {
+    box-shadow: none !important;
+}
+
+.border-accordian {
+    border: 1px solid #1EADB6 !important;
+    border-top-left-radius: 50px !important;
+    border-bottom-right-radius: 40px !important;
+}
+/*================================font====================*/
+
+.font-700-48 {
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.font-600-18 {
+    font-size: 18px !important;
+    font-weight: 600;
+}
+
+.font-400-18 {
+    font-size: 18px !important;
+    font-weight: 400;
+}
+
+.font-600-24 {
+    font-size: 24px !important;
+    font-weight: 600;
+}
+
+.down-arrow::after {
+    background-image: url(/assets/image/png/arrow.png) !important;
+}
+
+.color-linear {
+
+    background: linear-gradient(#815CC8 100%, #1BABFE 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+.bg-blur {
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.03) 100%) !important;
+
+}
+.accordion-arrow::after {
+    background-image: url(/assets/image/svg/down-arrow.svg) !important;
+}
+/*=================================bg-image================================*/
+.bg-img-sec-2 {
+    background-image: url(/assets/image/png/sec-2-bg-img.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-img-sec-3 {
+    background-image: url(/assets/image/png/sec-3-bg-img.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-transparent {
+    background-color: transparent;
+
+}
+
+.min-height-93 {
+    min-height: 93px;
+}
+/*=====================position==========================*/
+
+.top {
+    top: -0.5px;
+    left: -0.5px;
+}
+
+.bottom {
+    bottom: -0.6px;
+    right: -1.6px;
+}
+
+/*================================font-family==========================*/
+.font-poppins {
+    font-family: "Poppins", sans-serif;
+}
+
+.font-Audiowide {
+    font-family: "Audiowide", sans-serif;
+}
+
+.font-Montserrat {
+    font-family: "Audiowide", sans-serif;
+}
+
