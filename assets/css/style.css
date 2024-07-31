@@ -59,6 +59,10 @@
 .accordion-arrow::after {
     background-image: url(/assets/image/svg/green-down-arrow.svg) !important;
 }
+.add-icon::after{
+    background-image: url(/assets/image/svg/add-icon.svg) !important;
+    transform: rotate(-90deg) !important;
+}
 
 
 /*=================================bg-image================================*/
