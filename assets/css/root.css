@@ -1,0 +1,15 @@
+/*================================font====================*/
+:root{
+    --fs-lg:48px;
+    --fs-md:24px;
+    --fs-sm:18px;
+}
+.fs-48 {
+    font-size:var(--fs-lg) !important;
+}
+.fs-24 {
+    font-size:var(--fs-md) !important;
+}
+.fs-18 {
+    font-size:var(--fs-sm)!important;
+}
