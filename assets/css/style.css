@@ -63,7 +63,10 @@
     background-image: url(/assets/image/svg/add-icon.svg) !important;
     transform: rotate(-90deg) !important;
 }
-
+.add-icon:not(.collapsed):after{
+    background-image: url(/assets/image/svg/subtract-icon.svg) !important;
+    transform: rotate(-180deg) !important;
+}
 
 /*=================================bg-image================================*/
 .bg-img-sec-2 {
