@@ -40,7 +40,7 @@
 }
 
 .down-arrow::after {
-    background-image: url(/assets/image/png/arrow.png) !important;
+    background-image: url(/assets/image/svg/white-down-arrow.svg) !important;
 }
 
 .color-linear {
@@ -55,9 +55,12 @@
     background: linear-gradient(180deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.03) 100%) !important;
 
 }
+
 .accordion-arrow::after {
-    background-image: url(/assets/image/svg/down-arrow.svg) !important;
+    background-image: url(/assets/image/svg/green-down-arrow.svg) !important;
 }
+
+
 /*=================================bg-image================================*/
 .bg-img-sec-2 {
     background-image: url(/assets/image/png/sec-2-bg-img.png);
@@ -84,7 +87,7 @@
 
 .top {
     top: -0.5px;
-    left: -0.5px;
+    left: -0.3px;
 }
 
 .bottom {
@@ -104,4 +107,3 @@
 .font-Montserrat {
     font-family: "Audiowide", sans-serif;
 }
-
