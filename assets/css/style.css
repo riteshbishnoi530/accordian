@@ -114,13 +114,13 @@
 .min-height-93 {
     min-height: 93px;
 }
-.accordion-button.collapsed span{
-    font-family: "Poppins", sans-serif !important;
-}
-.accordion-button span{
-    font-family: "Montserrat", sans-serif !important;
-}
 .accordion-heading:not(.collapsed){
     font-weight: 500 !important;
 
+}
+.accordion-button.collapsed span{
+    font-family: "Montserrat", sans-serif !important;
+}
+.accordion-button span{
+    font-family: "Poppins", sans-serif !important;
 }
